@@ -44,6 +44,9 @@ Maven
 
 REST APIs
 
+
+
+
 📂 Project Structure
 com.cfs.Ecomm
 ├── controller
@@ -65,6 +68,10 @@ com.cfs.Ecomm
     ├── UserService.java
     ├── ProductService.java
     └── OrderService.java
+
+    
+
+
 
 🗄 Database Configuration
 
