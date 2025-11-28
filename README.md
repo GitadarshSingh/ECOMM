@@ -1,12 +1,5 @@
 Ecomm - Spring Boot E-commerce Application
 
-
-
-
-
-
-
-
 🚀 Project Overview
 
 Ecomm is a Spring Boot-based backend for an e-commerce application.
